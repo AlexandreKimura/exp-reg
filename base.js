@@ -6,8 +6,6 @@ const alfabeto = 'abcdefghijklmnop ad9843219dasd4asd15'
 
 const cpfs = `
   123.123.123-12 435.654.435-43 098.764.543-54
-
-  400.855.048-82
 `;
 
 const ips = `
